@@ -1,0 +1,4 @@
+terraform.tfstate               → secrets leak ho sakte hain
+terraform.tfbackupstate files    → same risk
+.terraform                       → unnecessary heavy files
+terraform.lock.hcl
